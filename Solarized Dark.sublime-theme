@@ -327,7 +327,7 @@
     },
     {
         "class": "sidebar_label",
-        "color": [131, 148, 150],
+        "color": [88, 110, 117],
         "font.bold": false,
         "font.face": "Source Code Pro",
         "font.size": 12
@@ -455,7 +455,7 @@
     {
         "class": "tabset_control",
 
-        "layer0.opacity": 1.0,
+        "layer0.opacity": 1,
         "tint_index": 0,
 
         "layer1.texture": "Theme - Solarized Dark/tabset_background_transparent.png",
@@ -574,6 +574,8 @@
     /** Tab Labels **/
     {
         "class": "tab_label",
+        "font.face": "Source Code Pro Light",
+        "font.size": 12,
         "fg": [0, 0, 0, 255],
         "shadow_color": [255, 255, 255, 80],
         "shadow_offset": [0, 1]
